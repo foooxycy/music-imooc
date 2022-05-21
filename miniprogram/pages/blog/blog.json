@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "y-search":"/components/search/search",
+    "y-login":"/components/login/login",
+    "y-blog-card":"/components/blog-card/blog-card"
+
+  },
+  "navigationBarTitleText": "发现"
+}

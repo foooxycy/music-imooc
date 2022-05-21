@@ -1,0 +1,1 @@
+"D:\Program Files\微信web开发者工具\cli.bat" cloud functions deploy --e cloud1-6gpabdwycb9e30e6 --n quickstartFunctions --r --project "C:\Users\Mr\WeChatProjects\music-imooc" --report_first --report
